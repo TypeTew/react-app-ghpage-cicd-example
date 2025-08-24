@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://typetew.github.io/react-app-cicd-example",
+  "homepage": "https://typetew.github.io/react-app-gitpage-cicd-example",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
